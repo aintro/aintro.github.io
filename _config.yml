@@ -58,6 +58,7 @@ kramdown:
 # 评论系统
 # Disqus（https://disqus.com/）
 # disqus_username: qiubaiying
+disqus_username: qing_xia_1994
 
 # Gitalk
 gitalk:
